@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	padding: 0;
+	max-width: 500px;
+	margin: auto;
+}
+#addEmployeeBtn {
+	padding: 10px 20px;
+	border-radius: 3px;
+	color: #ffffff;
+	background: #1abc9c;
+	border: 0px solid;
+	margin: 20px 0;
+	font-size: 18px;
+	font-family: tahoma;
+}
+#employeeTable {
+	font-family: tahoma;
+	font-size: 16px;
+}
+
+#employeeForm {
+	padding: 20px 0;
+}
+#employeeForm label {
+	font-size: 20px;
+	font-family: tahoma;
+	padding: 0px 15px;
+}
+
+#employeeForm input {
+	font-size: 20px;
+	font-family: tahoma;
+	padding: 0px 15px;
+}
+#employeeForm input[type="submit"] {
+	padding: 10px 20px;
+	border-radius: 3px;
+	color: #ffffff;
+	background: #1abc9c;
+	border: 0px solid;
+	margin: 20px 15px;
+	font-size: 18px;
+	font-family: tahoma;
+}
+#employeeForm input[type="checkbox"] {
+	font-size: 20px;
+	font-family: tahoma;
+	padding: 0px 15px;
+}
